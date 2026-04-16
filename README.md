@@ -24,4 +24,4 @@ A portfolio project that ingests workflow event data, models how work moves thro
 
 ## Status
 
-Project setup in progress.
+Project postponed for Requirements AI Agent. See project on Github.
